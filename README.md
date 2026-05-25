@@ -18,3 +18,8 @@ Example :-
 
 # Next Step
 - Learn branching and merging practically.
+
+# Tools Used
+- Git
+- GitHub
+- VS Code
