@@ -10,3 +10,8 @@ Today I learned:
 - Importance of Git in collaborative development
 
 I also practiced creating repositories and commits on GitHub.
+Example :-
+# Goals
+- Learn Git
+- Learn GitHub workflow
+- Practice version control daily
