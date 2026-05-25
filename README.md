@@ -15,3 +15,6 @@ Example :-
 - Learn Git
 - Learn GitHub workflow
 - Practice version control daily
+
+#Next Step
+- Learn branching and merging practically.
